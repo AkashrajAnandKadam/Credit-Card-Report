@@ -1,6 +1,10 @@
 # Credit-Card-Report
 This dashboard suite analyzes 2023 credit card data, combining customer and transaction insights. It covers revenue, interest, and segmentation by demographics, job, and card usage. Interactive filters for quarters and weeks enable dynamic exploration to support data-driven decisions.
+
+
 📊 Credit Card Customer Report Dashboard
+
+
 📘 Overview
 This dashboard provides a comprehensive analysis of credit card customer data for the year 2023. It includes key financial metrics, customer segmentation, and revenue insights across various demographic and professional categories. The dashboard is interactive, with filters for quarters (Q1–Q4) and week start dates.
 ________________________________________
@@ -64,7 +68,13 @@ ________________________________________
 •	Quarter Selector: Q1, Q2, Q3, Q4
 •	Week Start Date Selector: Allows filtering by specific weeks
 
-📘 Credit Card Transaction Report Dashboard
+
+
+
+
+📘 Credit Card Transaction Report Dashboard'
+
+
 📊 Overview
 This dashboard provides a detailed analysis of credit card transaction data, focusing on revenue, interest, transaction behavior, and customer segmentation. It is designed to support data-driven decision-making for financial product optimization.
 ________________________________________
