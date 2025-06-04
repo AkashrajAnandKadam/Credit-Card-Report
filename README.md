@@ -63,3 +63,54 @@ ________________________________________
 🧭 Filters
 •	Quarter Selector: Q1, Q2, Q3, Q4
 •	Week Start Date Selector: Allows filtering by specific weeks
+
+📘 Credit Card Transaction Report Dashboard
+📊 Overview
+This dashboard provides a detailed analysis of credit card transaction data, focusing on revenue, interest, transaction behavior, and customer segmentation. It is designed to support data-driven decision-making for financial product optimization.
+________________________________________
+🔢 Key Metrics
+•	Total Revenue: ₹55.4M
+•	Total Interest Earned: ₹7.9M
+•	Total Transaction Amount: ₹45M
+•	Total Transaction Count: 657K
+________________________________________
+💳 Revenue by Card Category
+Card Type	Revenue	Interest Earned	Annual Fees
+Silver	—	—	—
+Gold	—	—	—
+Platinum	—	—	—
+(Note: Specific values for each card type are shown in the dashboard table but not fully visible in the image.)
+________________________________________
+📆 Quarterly Revenue & Transaction Count
+Bar chart showing:
+•	Total Revenue and Transaction Count across Q1 to Q4
+________________________________________
+📅 Filters
+•	Week_Start_Date: Dropdown filter (e.g., Ritesh Mishra)
+________________________________________
+🧾 Revenue by Expenditure Type
+Bar chart showing revenue distribution across:
+•	Grocery
+•	Fuel
+•	Shopping
+________________________________________
+🎓 Revenue by Education Level
+Bar chart showing revenue by:
+•	Graduate
+•	High School
+________________________________________
+👔 Revenue by Customer Job Type
+Bar chart showing revenue from:
+•	Self-employed
+•	Businessman
+________________________________________
+💰 Customer Acquisition Cost by Card Type
+Bar chart comparing acquisition costs for:
+•	Silver
+•	Gold
+________________________________________
+🧩 Revenue by Transaction Method
+Pie chart titled "Revenue by Use Chip" showing:
+•	Chip vs Non-Chip transaction revenue distribution
+________________________________________
+
